@@ -16,3 +16,11 @@ Esse é um desafio para inicinates assim como eu, porém a medida que vou avanç
 como mencionada usei apenas html e css para solucionar, mas quero implementar algumas funcionalidades no card com javascript.
 
 
+### REDES SOCIAS:
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayara-de-sousa-silva-425b6b238)
+[![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagran.com/nayarade77?igshid=ZDdkNTZiNTM=)
+[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
+)](https://wa.me/5519983607624?text=Ol%C3%A1+%F0%9F%91%8B%2C++tudo+bem%3F)
+[![telegran](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
+)](https://t.me/@Nayara_ackerman)
