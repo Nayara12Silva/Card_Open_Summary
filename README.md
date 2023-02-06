@@ -10,6 +10,7 @@ Esse é um desafio para inicinates assim como eu, porém a medida que vou avanç
 )]()
 
 ### Card Finalizado:
+clique [Aqui](https://nayara12silva.github.io/Card_Open_Summary/) para visualizar o card
 
 ![Captura de tela 2023-02-06 103953](https://user-images.githubusercontent.com/104741196/216996913-134b502c-358c-4d50-9393-bc62a31c242b.png)
 
